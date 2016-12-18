@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1442974540 source:d:\cs\projects\cpsem1\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<stdlib.h>
+	<sstream>
+	<conio.h>
+	<iomanip>
+	<algorithm>
+
