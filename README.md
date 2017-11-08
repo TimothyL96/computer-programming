@@ -1,7 +1,7 @@
 ## Songs Management System
 
 #### An assignment for Computer Programming subject in **Multimedia University Campus Melaka Campus**
-##### Subject of first year first semester in degree.
+##### Subject of first year first trimester in degree.
 
 
 _*Any juniors that come to this repository please only use this as **reference** and code your own.*_
